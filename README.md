@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![daenur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=riv-gh&theme=github-compact)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riv-gh&layout=compact&hide=Pascal)](#)
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riv-gh&layout=compact&hide=Pascal)](#) | [![profile](https://komarev.com/ghpvc/?username=riv-gh)](#) |
+|---|---|
